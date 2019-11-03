@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: RaidFrameReSizer
+## Author: 10leej
+## Notes: Increases the range of the width and height of the raid frames slider.
+## Credits: Choonster
+
+RaidFrameReSizer.lua
