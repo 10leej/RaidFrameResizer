@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 80200
 ## Title: RaidFrameReSizer
 ## Author: 10leej
 ## Notes: Increases the range of the width and height of the raid frames slider.
